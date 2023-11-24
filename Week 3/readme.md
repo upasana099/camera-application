@@ -1,4 +1,4 @@
-# Camera Image Processing with OpenCV
+# Camera Image Processing 
 
 This Python script utilizes OpenCV to interact with a webcam, providing various image processing features such as zooming, custom Sobel operators, custom Laplacian filter, and Canny edge detection. The script also incorporates OpenCV logo blending on the webcam feed.
 
