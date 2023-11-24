@@ -1,4 +1,4 @@
-# Webcam Features with OpenCV
+# Camera Features with OpenCV
 
 This Python script utilizes OpenCV to interact with a webcam, providing various features such as zooming, image capture, video recording, and image processing.
 
