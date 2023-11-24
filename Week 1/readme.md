@@ -1,4 +1,4 @@
-# Webcam Zoom and Recording
+# Camera Zoom and Recording
 
 This Python script uses the OpenCV library to capture video from a webcam, allowing the user to zoom in on the live feed using a trackbar. Additionally, the script provides the functionality to capture images ('c' key) and start/stop video recording ('v' key).
 
