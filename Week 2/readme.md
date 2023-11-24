@@ -21,37 +21,37 @@ This Python script utilizes OpenCV to interact with a webcam, providing various 
 8. Press 's' to apply a sharpening filter.
 9. Press 'Esc' to exit the program.
 
-## Trackbars
+# Trackbars
 
 - **Zoom:** Controls the zoom factor of the webcam feed.
 - **Sigma X:** Controls the horizontal standard deviation for Gaussian blur.
 - **Sigma Y:** Controls the vertical standard deviation for Gaussian blur.
 
-## Image Capture
+# Image Capture
 
 Pressing the 'c' key captures a still image from the webcam feed. The image is saved in the current directory with a filename indicating the capture time.
 
-## Yellow Color Extraction
+# Yellow Color Extraction
 
 Pressing the 'e' key extracts yellow color from the frame and displays the original frame, the mask, and the result.
 
-## Rotation
+# Rotation
 
 Pressing the 'r' key rotates the frame by 10 degrees.
 
-## Thresholding
+# Thresholding
 
 Pressing the 't' key applies a skin tone threshold to the frame, highlighting areas with skin tones.
 
-## Gaussian Blur
+# Gaussian Blur
 
 Pressing the 'b' key applies Gaussian blur to the frame. Adjust the 'Sigma X' and 'Sigma Y' trackbars for custom blurring.
 
-## Sharpening
+# Sharpening
 
 Pressing the 's' key applies a sharpening filter to the frame.
 
-## Video Recording
+# Video Recording
 
 - Press 'v' to start/stop video recording. Recorded videos are saved in the current directory with filenames in the format: `recorded_<timestamp>.avi`.
 
