@@ -16,7 +16,7 @@ This Python script utilizes OpenCV to interact with a webcam, providing various 
 3. Press 'c' to capture a still image.
 4. Press 'e' to extract yellow color from the frame.
 5. Press 'r' to rotate the frame by 10 degrees.
-6. Press 't' to apply a skin tone threshold.
+6. Press 't' to apply a threshold.
 7. Press 'b' to apply Gaussian blur with customizable parameters.
 8. Press 's' to apply a sharpening filter.
 9. Press 'Esc' to exit the program.
@@ -39,7 +39,7 @@ Pressing the 'e' key extracts yellow color from the frame and displays the origi
 
 Pressing the 'r' key rotates the frame by 10 degrees.
 
-## Skin Tone Thresholding
+## Thresholding
 
 Pressing the 't' key applies a skin tone threshold to the frame, highlighting areas with skin tones.
 
