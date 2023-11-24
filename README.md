@@ -24,15 +24,19 @@ This script utilizes OpenCV to interact with the webcam, providing functionaliti
 
 ### Description
 
-This script demonstrates various image processing techniques applied to the live webcam feed. It includes options for custom Sobel and Laplacian filters, Gaussian blur, and skin thresholding.
+This script demonstrates various ways to interact with a webcam, providing various features such as zooming, image capture, video recording, and image processing.
 
 ### Usage
 
 1. Run the script.
-2. Use different keys to apply specific image processing techniques.
-3. Press 's' to toggle Sobel X filter.
-4. Press 'd' to toggle Canny edge detection.
-5. Press '4' to toggle the display of multiple processed windows.
+2. Adjust the zoom level using the 'Zoom' trackbar.
+3. Press 'c' to capture a still image.
+4. Press 'e' to extract yellow color from the frame.
+5. Press 'r' to rotate the frame by 10 degrees.
+6. Press 't' to apply a threshold.
+7.Press 'b' to apply Gaussian blur with customizable parameters.
+8. Press 's' to apply a sharpening filter.
+9. Press 'Esc' to exit the program.
 
 ### Dependencies
 
